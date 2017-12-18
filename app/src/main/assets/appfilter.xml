@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <iconback img1="iconback" />
+    <iconmask img1="iconmask" />
+    <iconupon img1="iconupon" />
+    <scale factor="1.0" />
+
+    <!-- Polar -->
+    <item
+        component="ComponentInfo{com.android.vending/com.google.android.finsky.activities.MainActivity}"
+        drawable="app_store" />
+    <item
+        component="ComponentInfo{ de.androidpit.app/com.google.android.finsky.activities.MainActivity}"
+        drawable="app_store" />
+    <item
+        component="ComponentInfo{com.sec.android.app.music/com.samsung.android.app.music.common.ActivityLauncher}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}"
+        drawable="messages" />
+    <item
+        component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}"
+        drawable="app_store" />
+    <item
+        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
+        drawable="setting" />
+    <item
+        component="ComponentInfo{special.icons/folder}"
+        drawable="wallet" />
+    <item
+        component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}"
+        drawable="calender" />
+    <item
+        component="ComponentInfo{com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity}"
+        drawable="home" />
+    <item
+        component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}"
+        drawable="phone" />
+    <item
+        component="ComponentInfo{com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL}"
+        drawable="mail" />
+    <item
+        component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity}"
+        drawable="music" />
+    <item
+        component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}"
+        drawable="safari" />
+    <item
+        component="ComponentInfo{com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList}"
+        drawable="video" />
+    <item
+        component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}"
+        drawable="clock" />
+    <item
+    component="ComponentInfo{com.sec.android.app.dmb/com.sec.android.app.dmb.activity.DMBFullScreenView}"
+    drawable="tv" />
+    <item
+        component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity}"
+        drawable="wallet" />
+    <item
+        component="ComponentInfo{com.samsung.android.app.memo/com.samsung.android.app.memo.Main}"
+        drawable="notes" />
+    <item
+        component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}"
+        drawable="calculator" />
+    <item
+        component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}"
+        drawable="voice" />
+    <item
+        component="ComponentInfo{com.skt.prod.dialer/com.skt.prod.dialer.activities.main.MainActivity}"
+        drawable="phone" />
+
+
+
+
+
+
+</resources>

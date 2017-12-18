@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+
+    <category title="All Icons" />
+    <item drawable="app_store" />
+    <item drawable="calendar" />
+    <item drawable="clock" />
+    <item drawable="health" />
+    <item drawable="home" />
+    <item drawable="music" />
+    <item drawable="mail" />
+    <item drawable="maps" />
+    <item drawable="messages" />
+    <item drawable="news" />
+    <item drawable="notes" />
+    <item drawable="phone" />
+    <item drawable="photos" />
+    <item drawable="reminders" />
+    <item drawable="settings" />
+    <item drawable="stocks" />
+    <item drawable="tv" />
+    <item drawable="wallet" />
+    <item drawable="weather" />
+
+</resources>

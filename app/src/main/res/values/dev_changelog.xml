@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <bool name="changelog_enabled">true</bool>
+
+    <string-array name="changelog" translatable="false">
+        <item><![CDATA[ <b>배경화면을 수정하였습니다</b> ]]></item>
+        <item><![CDATA[ 탐색 창 이미지가 수정되었습니다 ]]></item>
+    </string-array>
+
+</resources>
